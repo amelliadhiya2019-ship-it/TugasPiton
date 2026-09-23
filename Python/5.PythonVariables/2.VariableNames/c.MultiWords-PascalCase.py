@@ -1,1 +1,0 @@
-MyVariableName = "John"
